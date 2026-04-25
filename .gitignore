@@ -1,0 +1,19 @@
+# Ignore the real client spreadsheet — never upload real data!
+clientes chat bot.xlsx
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
